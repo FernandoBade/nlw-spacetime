@@ -3,6 +3,12 @@
         "@rocketseat/eslint-config/node"
     ],
     "rules": {
+        "prettier/prettier": [
+            "error",
+            {
+              "endOfLine": "auto"
+            }
+          ],
         "semi": ["warn", "always"],
         "import/order": [
             "error",
