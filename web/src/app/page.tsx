@@ -54,7 +54,7 @@ export default function Home() {
         <div>
           Feito com 💜 no NLW da{' '}
           <a
-            href="https://rocketseat.com.br"
+            href="https://www.rocketseat.com.br/nlw"
             rel="noreferrer"
             target="_blank"
             className="flex-1 transition-colors hover:text-white"
@@ -62,13 +62,13 @@ export default function Home() {
             Rocketseat.
           </a>
           <a
-            href="github.com/FernandoBade"
+            href="https://github.com/FernandoBade/nlw-spacetime"
             rel="noreferrer"
             target="_blank"
             className="text-sm text-purple-300 transition-colors hover:text-purple-100"
           >
             {' '}
-            Veja o projeto aqui.
+            Veja o projeto no GitHub.
           </a>
         </div>
       </div>
